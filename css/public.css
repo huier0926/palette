@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,dl,dd,dt,img,p,input,form,pre{
+	margin:0;
+	padding: 0;
+	border: 0px;
+	list-style: none;
+	font-family: Arial,"微软雅黑";
+	font-size: 12px;
+	color: #000;
+}
+a{
+	color: #666;
+	text-decoration: none;
+}
